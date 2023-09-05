@@ -1,0 +1,13 @@
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\WebAppWithSQLDB.exe
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\WebAppWithSQLDB.dll
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\WebAppWithSQLDB.deps.json
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\WebAppWithSQLDB.runtimeconfig.json
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\WebAppWithSQLDB.pdb
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Z00482VR\Desktop\AZURE_DEVOPS\VS_Project\MyAzureSolution\WebAppWithSQLDB\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
